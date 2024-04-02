@@ -14,6 +14,10 @@ public class TestGitDemo
 	{
 	  System.out.println("This is m3 of gitDemo");	
 	}
+	public void m4()
+	{
+	  System.out.println("This is m4 of gitDemo");	
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("This Is Git Demo");
